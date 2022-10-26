@@ -1,4 +1,4 @@
-# pokeApi
+PokeAPI
 
 Utilize o projeto em PYTHON para efetuar as consultas e para efetuar o provisionamento da infraestrutura o projeto TERRAFORM.
 

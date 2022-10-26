@@ -1,0 +1,17 @@
+# Terraform
+.terraform*
+terraform.tfstate*
+
+# SSH keys
+id_rsa*
+danilopacheco*
+new_user_credentials*
+new-terraform-aws*
+myaws*
+
+# Ignorar pastas
+key/
+new_user_credentials/
+
+# K8s
+kubeconfig
